@@ -21,8 +21,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sneakad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sneakad" /></a></p><br><br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneakad&show_icons=true&locale=en" alt="sneakad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneakad&" alt="sneakad" /></p>
-
-
+### GitHub Stats:
+<div display="flex">
+  <img padding-right="0px" src="https://github-readme-stats.vercel.app/api?username=sneakad&show_icons=true&locale=en" alt="anomic30" width="49%"/>
+  <img padding-right="0px" src="https://github-readme-streak-stats.herokuapp.com/?user=sneakad&" width="49%"/>
+</div>
