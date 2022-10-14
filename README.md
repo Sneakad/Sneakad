@@ -6,12 +6,9 @@
 - 📫 Reach me at **aditya4161@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sneakad4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sneakad4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya-mondal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-mondal2" height="30" width="40" /></a>
-<a href="https://www.behance.net/adityamondal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adityamondal2" height="30" width="40" /></a>
-<a href="https://discord.gg/Sneakad#6910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sneakad#6910" height="30" width="40" /></a>
-</p>
+
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sneakad4)  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/aditya-mondal2)  [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/Sneakad#6910)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">   
