@@ -1,5 +1,4 @@
-<img align="center" alt="Header" width="100%" src="https://user-images.githubusercontent.com/72182438/190969509-3e4f7c06-b8e4-4497-a514-5b327749831f.png">
-
+<img align="center" alt="Header" width="100%" src="https://user-images.githubusercontent.com/72182438/198850066-96d8bfa9-cf06-428f-832c-8dfbd2f375ff.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneakad&label=Profile%20views&color=0e75b6&style=flat" alt="sneakad" /> </p>
 
