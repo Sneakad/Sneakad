@@ -26,5 +26,5 @@
 <p><a href="https://www.buymeacoffee.com/sneakad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sneakad" /></a></p>
 
 <br>
-Because I want to visit Starbucks once.
+Because I want to visit Starbucks.
 
