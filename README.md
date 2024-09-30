@@ -9,16 +9,16 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sneakad4)  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/aditya-mondal2)  [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/Sneakad#6910)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,expressjs,mongodb,mysql,c,cpp,java,figma,git,firebase,netlify,heroku,blender&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,expressjs,mongodb,mysql,c,cpp,java,figma,git,firebase,netlify,heroku,blender&perline=9)](https://skillicons.dev)  -->
 
 
-### GitHub Stats:
-<div display="flex">
+<!-- ### GitHub Stats: -->
+<!-- <div display="flex"> -->
 <!--   <img padding-right="0px" src="https://github-readme-stats.vercel.app/api?username=sneakad&show_icons=true&locale=en" alt="anomic30" width="49%"/> -->
-  <img padding-right="0px" src="https://github-readme-streak-stats.herokuapp.com/?user=sneakad&" width="49%"/>
-</div>
+<!--   <img padding-right="0px" src="https://github-readme-streak-stats.herokuapp.com/?user=sneakad&" width="49%"/> -->
+<!-- </div> -->
 
 
 <h3 align="left">Support:</h3>
