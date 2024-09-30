@@ -16,7 +16,7 @@
 
 ### GitHub Stats:
 <div display="flex">
-  <img padding-right="0px" src="https://github-readme-stats.vercel.app/api?username=sneakad&show_icons=true&locale=en" alt="anomic30" width="49%"/>
+<!--   <img padding-right="0px" src="https://github-readme-stats.vercel.app/api?username=sneakad&show_icons=true&locale=en" alt="anomic30" width="49%"/> -->
   <img padding-right="0px" src="https://github-readme-streak-stats.herokuapp.com/?user=sneakad&" width="49%"/>
 </div>
 
